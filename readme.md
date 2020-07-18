@@ -1,2 +1,2 @@
-#friendly-winner
+# friendly-winner
 github練習用
